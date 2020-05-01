@@ -9,6 +9,12 @@ import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+Mohammad Chaerrull Febriansyah
+10117171 - IF5
+
+01 Mei 2020 : Membuat Keseluruhan Aplikasi dan Memperbaiki Error
+ */
 
 public class MainActivity extends AppCompatActivity {
 
