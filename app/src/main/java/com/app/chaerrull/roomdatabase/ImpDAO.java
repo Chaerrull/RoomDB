@@ -5,7 +5,12 @@ import androidx.room.Insert;
 import androidx.room.Query;
 
 import java.util.List;
+/*
+Mohammad Chaerrull Febriansyah
+10117171 - IF5
 
+01 Mei 2020 : Membuat Keseluruhan Aplikasi dan Memperbaiki Error
+ */
 
 @Dao
 public interface ImpDAO {
