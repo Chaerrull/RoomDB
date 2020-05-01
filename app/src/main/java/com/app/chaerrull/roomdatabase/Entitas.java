@@ -4,6 +4,13 @@ import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
+/*
+Mohammad Chaerrull Febriansyah
+10117171 - IF5
+
+01 Mei 2020 : Membuat Keseluruhan Aplikasi dan Memperbaiki Error
+ */
+
 @Entity
 public class Entitas {
 
